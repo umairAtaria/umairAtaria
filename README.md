@@ -2,7 +2,7 @@
 <h2 align="center">A passionate FullStack Web developer from Pakistan</h2>
 <br><br>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mohammadumair1244&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadumair1244" />  
+  <img src="https://komarev.com/ghpvc/?username=umairAtaria&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadumair1244" />  
   <a href="https://twitter.com/thisisumairhere" target="blank"><img src="https://img.shields.io/twitter/follow/thisisumairhere?logo=twitter&style=for-the-badge"         alt="thisisumairhere" /></a></p>
 
 
